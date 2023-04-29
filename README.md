@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="Anu-Share-file Logo">
+  <img src="https://graph.org/file/17ed957c742b7d156bbbe.jpg" alt="Anu-Share-file Logo">
 </p>
 <h1 align="center">
   Anu-Share-file 𝑩𝒐𝒕
